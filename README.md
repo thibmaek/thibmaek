@@ -1,15 +1,25 @@
 ## Hi there 👋
 
-I'm Thibault, based in the most beautiful city of Europe (Bruges) and working at In The Pocket as an Engineering Lead.
-My previous technical strength lies in React Native, React, Next, Node and Linux.
+I'm Thibault, based in the most beautiful city of Europe (Bruges) and working at [Payflip](payflip.be) as CTO.
 
-I now try to be the software engineer that can act as manager, instead of the manager that used to software engineer.
+### 💪 Technical strengths
+
+- React ecosystem (SPA, Next, React Native)
+- Node (Fastify, Express, scripting & tooling purposes)
+- GraphQL (at scale)
+- Bash
+- SRE type of things (Grafana, Prometheus, Loki, OCI)
+- Sysadmin things (Proxmox, Ansible, Nix, Unix, Debian, LXC)
+- Go (actively learning the most but already confident)
+- AI (Open WebUI, RAG, LiteLLM, Mistral, Python, n8n, Activepieces)
 
 ### 🌱 Mainly interested in
 - Home Automation
 - [Go](https://github.com/thibmaek?tab=repositories&q=&type=&language=go&sort=)
 - AI
+- [Nix]([https:/](https://github.com/thibmaek/nix-config-macos))
 - Monitoring & observability
+- Purposeful and non-hype usage of AI
 
 ### 🏆 Proud of
 - [oyster](https://github.com/thibmaek/oyster), my bash library
