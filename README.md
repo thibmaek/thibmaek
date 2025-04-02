@@ -17,7 +17,7 @@ I'm Thibault, based in the most beautiful city of Europe (Bruges) and working at
 - Home Automation
 - [Go](https://github.com/thibmaek?tab=repositories&q=&type=&language=go&sort=)
 - AI
-- [Nix]([https:/](https://github.com/thibmaek/nix-config-macos))
+- [Nix](https://github.com/thibmaek/nix-config-macos)
 - Monitoring & observability
 - Purposeful and non-hype usage of AI
 
